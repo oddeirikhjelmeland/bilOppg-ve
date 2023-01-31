@@ -16,6 +16,7 @@
             test.AddCar("Kia", "65432111", 2023, 10000);
             test.ShowCars();
             test.RemoveCar("123456");
+            test.RemoveCar("123456");
             Console.WriteLine("----------------");
             test.ShowCars();
             Console.WriteLine("----------------");

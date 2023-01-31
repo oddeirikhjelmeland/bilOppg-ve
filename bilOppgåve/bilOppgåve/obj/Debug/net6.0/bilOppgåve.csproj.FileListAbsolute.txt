@@ -13,3 +13,18 @@ G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\refint\bil
 G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\bilOppgåve.pdb
 G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\bilOppgåve.genruntimeconfig.cache
 G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\ref\bilOppgåve.dll
+C:\Users\oscar\source\repos\bilOppg-ve\bilOppgåve\bilOppgåve\bin\Debug\net6.0\bilOppgåve.exe
+C:\Users\oscar\source\repos\bilOppg-ve\bilOppgåve\bilOppgåve\bin\Debug\net6.0\bilOppgåve.deps.json
+C:\Users\oscar\source\repos\bilOppg-ve\bilOppgåve\bilOppgåve\bin\Debug\net6.0\bilOppgåve.runtimeconfig.json
+C:\Users\oscar\source\repos\bilOppg-ve\bilOppgåve\bilOppgåve\bin\Debug\net6.0\bilOppgåve.dll
+C:\Users\oscar\source\repos\bilOppg-ve\bilOppgåve\bilOppgåve\bin\Debug\net6.0\bilOppgåve.pdb
+C:\Users\oscar\source\repos\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\bilOppgåve.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\bilOppgåve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\source\repos\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\bilOppgåve.AssemblyInfoInputs.cache
+C:\Users\oscar\source\repos\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\bilOppgåve.AssemblyInfo.cs
+C:\Users\oscar\source\repos\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\bilOppgåve.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\bilOppgåve.dll
+C:\Users\oscar\source\repos\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\refint\bilOppgåve.dll
+C:\Users\oscar\source\repos\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\bilOppgåve.pdb
+C:\Users\oscar\source\repos\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\bilOppgåve.genruntimeconfig.cache
+C:\Users\oscar\source\repos\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\ref\bilOppgåve.dll

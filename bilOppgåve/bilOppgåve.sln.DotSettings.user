@@ -1,0 +1,30 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cb872277_002Dbab8_002D4d1f_002D9674_002De86b6f308121/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1CarConstructor" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::397B4191-9BA6-410C-BF7C-0B184719EABF::net6.0::bilOppgåve.Test.CarTest.Test1CarConstructor&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::397B4191-9BA6-410C-BF7C-0B184719EABF::net6.0::bilOppgåve.Test.CarTest.Test2CarConstructor&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;NUnit3x::397B4191-9BA6-410C-BF7C-0B184719EABF::net6.0::bilOppgåve.Test.CarDealershipTest.Test1Constructor&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+      &lt;Not&gt;&#xD;
+        &lt;And&gt;&#xD;
+          &lt;TestAncestor&gt;&#xD;
+            &lt;TestId&gt;NUnit3x::397B4191-9BA6-410C-BF7C-0B184719EABF::net6.0::bilOppgåve.Test.CarTest.Test1CarConstructor&lt;/TestId&gt;&#xD;
+            &lt;TestId&gt;NUnit3x::397B4191-9BA6-410C-BF7C-0B184719EABF::net6.0::bilOppgåve.Test.CarTest.Test2CarConstructor&lt;/TestId&gt;&#xD;
+            &lt;TestId&gt;NUnit3x::397B4191-9BA6-410C-BF7C-0B184719EABF::net6.0::bilOppgåve.Test.CarDealershipTest.Test1Constructor&lt;/TestId&gt;&#xD;
+          &lt;/TestAncestor&gt;&#xD;
+          &lt;TestAncestor&gt;&#xD;
+            &lt;TestId&gt;NUnit3x::397B4191-9BA6-410C-BF7C-0B184719EABF::net6.0::bilOppgåve.Test.CarTest&lt;/TestId&gt;&#xD;
+          &lt;/TestAncestor&gt;&#xD;
+        &lt;/And&gt;&#xD;
+      &lt;/Not&gt;&#xD;
+    &lt;/And&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::397B4191-9BA6-410C-BF7C-0B184719EABF::net6.0::bilOppgåve.Test.CarDealershipTest.Test1Constructor2&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::397B4191-9BA6-410C-BF7C-0B184719EABF::net6.0::bilOppgåve.Test.CarDealershipTest.Test1ShowOldCars&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::397B4191-9BA6-410C-BF7C-0B184719EABF::net6.0::bilOppgåve.Test.CarDealershipTest.Test1ShowCarDistance&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::397B4191-9BA6-410C-BF7C-0B184719EABF::net6.0::bilOppgåve.Test.CarDealershipTest.Test1AddAndRemoveCar&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

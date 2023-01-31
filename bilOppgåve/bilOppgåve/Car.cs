@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace bilOppgåve
 {
-    internal class Car
+    public class Car
     {
         public string Brand { get; set; }
         public string RegistrationNr { get;  set; }

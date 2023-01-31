@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace bilOppgåve
 {
-    internal class CarDealership
+    public class CarDealership
     {
-        private string Name { get; set; }
-        private string Address {get; set;}
+        public string Name { get; set; }
+        public string Address {get; set;}
         public List <Car> CarList { get; private set; }
 
 
@@ -42,8 +42,9 @@ namespace bilOppgåve
             if(RemoveCar != null)
             {
                 CarList.Remove(RemoveCar);
+                return;
             }
-            
+            Console.WriteLine("That car does not exist");
         }
         public void ShowCars()
         {
