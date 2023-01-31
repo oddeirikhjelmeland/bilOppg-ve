@@ -1,0 +1,15 @@
+G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\bin\Debug\net6.0\bilOppgåve.exe
+G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\bin\Debug\net6.0\bilOppgåve.deps.json
+G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\bin\Debug\net6.0\bilOppgåve.runtimeconfig.json
+G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\bin\Debug\net6.0\bilOppgåve.dll
+G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\bin\Debug\net6.0\bilOppgåve.pdb
+G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\bilOppgåve.csproj.AssemblyReference.cache
+G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\bilOppgåve.GeneratedMSBuildEditorConfig.editorconfig
+G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\bilOppgåve.AssemblyInfoInputs.cache
+G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\bilOppgåve.AssemblyInfo.cs
+G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\bilOppgåve.csproj.CoreCompileInputs.cache
+G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\bilOppgåve.dll
+G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\refint\bilOppgåve.dll
+G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\bilOppgåve.pdb
+G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\bilOppgåve.genruntimeconfig.cache
+G:\school\modul 3\bilOppg-ve\bilOppgåve\bilOppgåve\obj\Debug\net6.0\ref\bilOppgåve.dll

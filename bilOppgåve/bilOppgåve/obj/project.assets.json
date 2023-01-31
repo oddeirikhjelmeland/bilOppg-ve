@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\school\\modul 3\\bilOppgåve\\bilOppgåve\\bilOppgåve.csproj",
+      "projectUniqueName": "G:\\school\\modul 3\\bilOppg-ve\\bilOppgåve\\bilOppgåve\\bilOppgåve.csproj",
       "projectName": "bilOppgåve",
-      "projectPath": "G:\\school\\modul 3\\bilOppgåve\\bilOppgåve\\bilOppgåve.csproj",
+      "projectPath": "G:\\school\\modul 3\\bilOppg-ve\\bilOppgåve\\bilOppgåve\\bilOppgåve.csproj",
       "packagesPath": "C:\\Users\\Slopsey\\.nuget\\packages\\",
-      "outputPath": "G:\\school\\modul 3\\bilOppgåve\\bilOppgåve\\obj\\",
+      "outputPath": "G:\\school\\modul 3\\bilOppg-ve\\bilOppgåve\\bilOppgåve\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
